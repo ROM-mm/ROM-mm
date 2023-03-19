@@ -8,7 +8,7 @@ Líder de equipes de engenharia de dados
 - 🧑🏾‍🎓Graduação: Análise e Desenvolvimento de Sistemas
 - 🧑🏾‍🎓Especialista: Liderança estratégica de TI
 
----
+----
 
 ### :hammer_and_wrench: Linguagens e ferramentas :
 
