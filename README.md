@@ -1,5 +1,7 @@
 ### Hi there 👋
 
--  👨🏽‍💼 Líder Técnico de Engenharia de Dados
--  👨🏽‍🏫 Graduação: Análise e Desenvolvimento de Sistemas/Ciencia de Dados
--  👨🏽‍🏫 Pós Graduação: Engenharia de Software/AI
+- 🧑🏾‍🎓Pós graduação: Engenharia de Software
+- 🧑🏾‍🎓Pós graduação: Engenharia da Inteligencia Artificial
+- 🧑🏾‍🎓Graduação: Ciencia de Dados
+- 🧑🏾‍🎓Graduação: Análise e Desenvolvimento de Sistemas
+- 🧑🏾‍🎓Especialista: Liderança estratégica de TI
