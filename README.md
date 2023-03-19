@@ -1,4 +1,6 @@
-### Hi there 👋
+### Quem sou eu 👋
+
+Líder de equipes de engenharia de dados
 
 - 🧑🏾‍🎓Pós graduação: Engenharia de Software
 - 🧑🏾‍🎓Pós graduação: Engenharia da Inteligencia Artificial
