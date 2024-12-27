@@ -17,3 +17,5 @@
 <a href="https://stackoverflow.com/users/11751570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11751570" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/romeritomorais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/romeritomorais" height="30" width="40" /></a>
 </p>
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
