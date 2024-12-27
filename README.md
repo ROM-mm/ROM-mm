@@ -18,3 +18,4 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/romeritomorais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/romeritomorais" height="30" width="40" /></a>
 </p>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ROM-mm)](https://github.com/anuraghazra/github-readme-stats)
