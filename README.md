@@ -1,5 +1,6 @@
 ## Who am I  👋
-- Simple Engineer
+# “Known as a Notable Engineer”
+With over 15 years of experience in technology, I specialize in building scalable data platforms, designing robust systems, and implementing MLOps pipelines. I have a deep understanding of data engineering best practices, cloud-native architectures, and software engineering principles, enabling me to lead the design and execution of complex, high-performance systems. My focus is on driving innovation and ensuring efficiency, reliability, and scalability in every solution I develop
 
 ----
 
