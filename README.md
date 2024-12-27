@@ -10,6 +10,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ROM-mm&" alt="sdsd" /></p>
 
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)]
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)]()
 <br/>
 ---
