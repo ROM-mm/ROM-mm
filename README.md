@@ -8,3 +8,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ROM-mm&show_icons=true&locale=en" alt="sdsd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ROM-mm&" alt="sdsd" /></p>
+
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/6oeorjyhfk18f19hirsaa7ztz)
+<br/>
+---
