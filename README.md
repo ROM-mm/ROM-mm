@@ -8,7 +8,7 @@ With over 15 years of experience in technology, I specialize in building scalabl
 ----
 
 ### Roadmaps  
-[![roadmap.sh](https://roadmap.sh/card/tall/6774420770129741a8681ad5?variant=dark&roadmaps=devops%2Cjava%2Ckubernetes%2Cmlops)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/6774420770129741a8681ad5?variant=dark&roadmaps=mlops%2Ckubernetes)](https://roadmap.sh)
 
 <br/>
 
