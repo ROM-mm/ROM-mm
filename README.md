@@ -7,9 +7,6 @@ With over 15 years of experience in technology, I specialize in building scalabl
 
 ----
 
-### Roadmaps  
-[![roadmap.sh](https://roadmap.sh/card/tall/6774420770129741a8681ad5?variant=dark&roadmaps=mlops%2Ckubernetes)](https://roadmap.sh)
-
 <br/>
 
 ### Languages and Tools:
@@ -46,9 +43,4 @@ With over 15 years of experience in technology, I specialize in building scalabl
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ROM-mm&show_icons=true&locale=en" alt="sdsd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ROM-mm&" alt="sdsd" /></p>
-
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)]()
-<br/>
----
+----
